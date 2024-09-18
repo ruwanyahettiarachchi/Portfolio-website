@@ -542,6 +542,11 @@ section{
     grid-template-columns: repeat(auto-fit, minmax(359px, auto));
 }
 
+.certification-content{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(359px, auto));
+}
+
 .row{
     position: relative;
     overflow: hidden;
